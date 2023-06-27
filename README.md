@@ -29,8 +29,8 @@ O modelo paresentou:
 - RMSE de 26974,62
 - MAE de 26800,10
 
-  # Modelo para definir se uma casa é cara ou barata
-  Para esse definição, utilizamos o Kmeans divido em 2 clusters, considerando as principais variáveis que tem correlação com preço de venda, no caso são:
+# Modelo para definir se uma casa é cara ou barata
+Para esse definição, utilizamos o Kmeans divido em 2 clusters, considerando as principais variáveis que tem correlação com preço de venda, no caso são:
   - Nota da casa
   - Se é acima do nível do solo
   - Capacidade de carros
