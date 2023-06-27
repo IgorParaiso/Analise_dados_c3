@@ -34,8 +34,9 @@ Para esse definição, utilizamos o Kmeans divido em 2 clusters, considerando as
   - Nota da casa
   - Se é acima do nível do solo
   - Capacidade de carros
-    O grupo 0 que tem a média mais baixa de preço e portanto casas baratas
-    O grupo 1 que tem a média mais alta de preçoe e portanto casas caras
+
+O grupo 0 que tem a média mais baixa de preço e portanto casas baratas
+O grupo 1 que tem a média mais alta de preçoe e portanto casas caras
 
 # Modelo de clusterização
 Para esse caso também utilizamos o Kmeans com as principais variáveis correlacionadas ao target, utilizamos a regra do cotovelo e identificamos que o número de clusters ideal é 3 e por isso dividimos o dataset em 3 grupos
