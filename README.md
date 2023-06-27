@@ -36,6 +36,7 @@ Para esse definição, utilizamos o Kmeans divido em 2 clusters, considerando as
   - Capacidade de carros
 
 O grupo 0 que tem a média mais baixa de preço e portanto casas baratas
+
 O grupo 1 que tem a média mais alta de preçoe e portanto casas caras
 
 # Modelo de clusterização
